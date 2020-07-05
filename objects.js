@@ -1,3 +1,5 @@
 var playlist = { Slowdive: "Alison" }
-function updatePlaylist()
+function updatePlaylist(playlist, Slowdive, Alison){
+  
+}
 
