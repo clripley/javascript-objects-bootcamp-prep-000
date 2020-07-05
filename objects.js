@@ -1,2 +1,2 @@
-var playlist = { Boardsofcanada: "sixtyniner" }
+var playlist = { slowdive: "sixtyniner" }
 
